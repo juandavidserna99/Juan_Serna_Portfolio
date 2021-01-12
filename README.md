@@ -1,4 +1,4 @@
-# Here you can find my professional projects in the area of Data Science, Machine Learning and more.
+## Here you can find my professional projects in the area of Data Science, Machine Learning and more.
 #### Juan David Serna Valderrama
 
 
