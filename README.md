@@ -1,5 +1,5 @@
 # Juan David Serna Valderrama
-### Welcome to my professional Data Science portfolio.
+
 Here you can find my professional projects in the area of Data Science, Machine Learning and more.
 
 
