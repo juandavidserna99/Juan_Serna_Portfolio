@@ -37,6 +37,6 @@ How to create recommender systems for sales (especially E-Commerce) like Amazon 
 
 ![](Clustering.PNG)
 
-## Contact me
-### E-mail: juandavidserna12@gmail.com
-### Tel: +57 3175747712
+#### Contact me
+##### E-mail: juandavidserna12@gmail.com
+##### Tel: +57 3175747712
