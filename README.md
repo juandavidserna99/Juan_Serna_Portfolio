@@ -37,3 +37,7 @@ How to create recommender systems for sales (especially E-Commerce) like Amazon 
 7. Hybrid Recommenders.
 
 ![](https://github.com/juandavidserna99/Juan_Serna_Portfolio/blob/main/Clustering.PNG)
+
+## Contact me
+### E-mail: juandavidserna12@gmai.com
+### Tel: +57 3175747712
