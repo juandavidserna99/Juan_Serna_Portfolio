@@ -4,7 +4,7 @@ Here you can find my professional projects in the area of Data Science, Machine 
 
 
 
-# Project 1: Sales Analysis
+# [Project 1: Sales Analysis](https://github.com/juandavidserna99/Sales-Analysis)
 ### Project Overview
 The dataset used contains hundreds of thousands of mostly electronic product sales data that were stored for 12 months and we have data specifically on product type, cost, purchase address, ect.
 The following questions were resolved:
